@@ -1,2 +1,2 @@
 # testrepository
-testrepository by Vinit
+testrepository by Vinit Raj
